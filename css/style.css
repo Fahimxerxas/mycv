@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+body{
+	font-family: 'Poppins', sans-serif;
+}
+.box{
+	border: 2px solid #2F5597;
+}
+.left-side{
+	background-color: #DEEBF7;
+	padding: 30px;
+}
+.right-side{
+	background-color: white;
+	padding: 30px;
+}
+.image{
+	width: 250px;
+    border-radius: 50%;
+}
+.name{
+	text-align: center;
+    border: 2px solid #2F5597;
+    padding: 8px;
+    margin-top: 15px;
+    border-radius: 12px;
+}
+.title{
+	text-align: center;
+    margin-top: 16px;
+    font-size: 25px;
+}
+.line{
+	background: #2F5597;
+    height: 2px;
+}
+hr:not([size]) {
+    height: 3px;
+}
+.descrip{
+	text-align: center;
+	font-size: 18px;\margin-top: 16px;
+}
+.uni-year{
+	text-align: center;
+    margin-top: 25px;
+    line-height: 35px;
+}
+.uni-info{
+	border-left: 2px solid black;
+}
+.clg-section{
+	margin-top: 35px;
+}
